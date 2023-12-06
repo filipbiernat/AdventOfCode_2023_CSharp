@@ -10,6 +10,7 @@
             Execute(new Day3.Day3A(), new Day3.Day3B());
             Execute(new Day4.Day4A(), new Day4.Day4B());
             Execute(new Day5.Day5A(), new Day5.Day5B());
+            Execute(new Day6.Day6A(), new Day6.Day6B());
         }
         private static void Execute(params IDay[] days)
 
